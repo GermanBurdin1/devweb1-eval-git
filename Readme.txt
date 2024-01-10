@@ -19,3 +19,7 @@ commandes utilisées :
 18. git commit -m "chgmt de plan, creation liste"
 19. git push
 20. git commit -m "dernieres commandes readme"
+21. git checkout master
+22. git merge dev
+23. git push
+24. git commit -m 'finish'
