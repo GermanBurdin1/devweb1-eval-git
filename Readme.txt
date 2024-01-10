@@ -14,3 +14,8 @@ commandes utilisées :
 13. git commit -m "fichier html"
 14. git push (pour envoyer les changements vers le dépôt local)
 15. git commit -m "région Auvergne"
+16. git push
+17. git commit -m "Bourgogne, Bretagne, Loire, Corse"
+18. git commit -m "chgmt de plan, creation liste"
+19. git push
+20. git commit -m "dernieres commandes readme"
