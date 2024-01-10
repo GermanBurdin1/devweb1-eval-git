@@ -13,3 +13,4 @@ commandes utilisées :
 12. git add . (après la création du fichier index.html)
 13. git commit -m "fichier html"
 14. git push (pour envoyer les changements vers le dépôt local)
+15. git commit -m "région Auvergne"
