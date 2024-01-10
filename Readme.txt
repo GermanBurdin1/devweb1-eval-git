@@ -9,4 +9,7 @@ commandes utilisées :
 8. git branch dev (pour créer une branche)
 9. git checkout dev (pour se mettre sur la branche)
 10. git commit -m "points 8 et 9"
-11. git push
+11. git push (j'ai commité la création d'une nouvelle branche + les deux commits)
+12. git add . (après la création du fichier index.html)
+13. git commit -m "fichier html"
+14. git push (pour envoyer les changements vers le dépôt local)
